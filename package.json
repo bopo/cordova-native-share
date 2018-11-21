@@ -1,0 +1,19 @@
+{
+  "name": "cordova-native-share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bopo/cordova-native-share.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bopo/cordova-native-share/issues"
+  },
+  "homepage": "https://github.com/bopo/cordova-native-share#readme"
+}
